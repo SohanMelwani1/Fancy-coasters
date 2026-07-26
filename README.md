@@ -15,6 +15,9 @@ There are six coasters with a coaster cup to store it all neatly in place
 <img width="634" height="543" alt="Screenshot 2026-07-25 124156" src="https://github.com/user-attachments/assets/bc257fdd-9601-4d29-8611-7168e395e4f0" />
 <img width="653" height="520" alt="Screenshot 2026-07-25 091530" src="https://github.com/user-attachments/assets/55bdd8de-d4dc-4e61-a927-28a6398979c1" />
 
+<img width="1512" height="2016" alt="coaster-stacked" src="https://github.com/user-attachments/assets/9dbb5733-72d8-452b-98cd-ea6e721749ac" />
+<img width="2856" height="2142" alt="coaster pic-1" src="https://github.com/user-attachments/assets/372e856d-25d6-4ca8-af3f-3a3c40a57802" />
+
 ___
 
 printables page:https://www.printables.com/model/1790623-fancy-coasters
