@@ -34,7 +34,8 @@ printed with bambu labs a1 mini (normal speed)
 
 infill is 8%
 
-BOM: https://docs.google.com/spreadsheets/d/1upyKh__3XOFeYVBEsozCtOwzmyCu49ck7CXa_8jGU-A/edit?gid=0#gid=0
+BOM: <img width="555" height="140" alt="image" src="https://github.com/user-attachments/assets/05d50cdf-d28c-4a58-aa10-bacfd48f58ad" />
+
 
 ___
 
