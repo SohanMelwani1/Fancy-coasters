@@ -1,7 +1,11 @@
 # Fancy-coasters
 Coasters inspired by nature
 
+# Reason to creation
+
 I decided to make fancy coasters as people could use them at home while protecting the material under neath it, however this must be printed with petg (or a material with hiegher melting point) as melting point is higher than PLA making it last longer, it would be better if petg carbon fiber is used as it has an even higher melting point. It is also a much cheaper alternative than buy coasters.
+
+___
 
 There are six coasters with a coaster cup to store it all neatly in place
 
@@ -24,17 +28,23 @@ printables page:https://www.printables.com/model/1790623-fancy-coasters
 
 My Print settings:
 
-print with PETG white(from numakers)
+1. print with PETG white(from numakers)
 
-.4mm nozzle
+2. .4mm nozzle
 
-supports not required,
+3. supports not required,
 
-printed with bambu labs a1 mini (normal speed)
+4. printed with bambu labs a1 mini (normal speed)
 
-infill is 8%
+5. infill is 8%
+   
+___
 
-BOM: <img width="555" height="140" alt="image" src="https://github.com/user-attachments/assets/05d50cdf-d28c-4a58-aa10-bacfd48f58ad" />
+
+
+|      BOM       | Material type | Cost (INR) | Cost (USD) |
+|----------------|---------------|------------|------------|
+| Fillament(80g) |     Petg      | 75 rupees  |    $0.79   |
 
 
 ___
