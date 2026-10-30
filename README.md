@@ -42,9 +42,9 @@ ___
 
 
 
-|      BOM       | Material type | Cost (INR) | Cost (USD) |
-|----------------|---------------|------------|------------|
-| Fillament(80g) |     Petg      | 75 rupees  |    $0.79   |
+|      BOM       | Material type | Cost (INR) | Cost (USD) | Link |
+|----------------|---------------|------------|------------|------|
+| Fillament(80g) |     Petg      | 75 rupees  |    $0.79   | https://india.numakers.com/products/petg-hs-filament?variant=43307603984553 |
 
 
 ___
